@@ -1,6 +1,6 @@
 # Listenable explanation for heatmap in ASC task
 
-![listenable_heatmap_previews](img/interpretable sounds.png)
+![listenable_heatmap_previews](./img/interpretable sounds.png)
 
 These are listenable explanations for [DCASE2019 challenge Task1 Awarded model](https://github.com/McDonnell-Lab/DCASE2019-Task1).  
 
