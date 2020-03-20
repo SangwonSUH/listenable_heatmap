@@ -4,7 +4,7 @@
 
 These are listenable explanations for [DCASE2019 challenge Task1 Awarded model](https://github.com/McDonnell-Lab/DCASE2019-Task1).  
 
-> _Recommend to wear headphones_
+> _Recommend waering headphones_
 
 1. [Airport](Airport.html)
 2. [Bus](Bus.html)
