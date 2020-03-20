@@ -1,8 +1,6 @@
 # Listenable explanation for heatmap in ASC task
 
-<div align="center">
-  <img src="/img/interpretable sounds.png" width="100%">
-</div>
+<img src="/img/interpretable sounds.png" width="100%"></img>
 
 These are listenable explanations for [DCASE2019 challenge Task1 Awarded model](https://github.com/McDonnell-Lab/DCASE2019-Task1).  
 
