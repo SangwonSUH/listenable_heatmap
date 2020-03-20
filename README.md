@@ -1,4 +1,4 @@
-# Listenable explanation for heatmap in ASC task
+# Listenable explanation of heatmap in ASC task
 
 <img src="./img/interpretable sounds.png" width="100%"></img>
 
