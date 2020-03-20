@@ -4,6 +4,10 @@
   <img src="/img/interpretable sounds.png" width="100%">
 </div>
 
+These are listenable explanations for [DCASE2019 challenge Task1 Awarded model](https://github.com/McDonnell-Lab/DCASE2019-Task1).  
+
+> Recommend to wear headphones
+
 1. [Airport](Airport.html)
 2. [Bus](Bus.html)
 3. [Metro](Metro.html)
