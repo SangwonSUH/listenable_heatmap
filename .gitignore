@@ -1,0 +1,14 @@
+
+bfg-1.13.0.jar
+*.pyc
+.vscode/settings.json
+.ipynb_checkpoints/Metro_station-checkpoint.ipynb
+.ipynb_checkpoints/Metro-checkpoint.ipynb
+.ipynb_checkpoints/Bus-checkpoint.ipynb
+.ipynb_checkpoints/Airport-checkpoint.ipynb
+.ipynb_checkpoints/Public_square-checkpoint.ipynb
+.ipynb_checkpoints/Shopping_mall-checkpoint.ipynb
+.ipynb_checkpoints/Street_pedestrian-checkpoint.ipynb
+.ipynb_checkpoints/Park-checkpoint.ipynb
+.ipynb_checkpoints/Street_traffic-checkpoint.ipynb
+.ipynb_checkpoints/Tram-checkpoint.ipynb
