@@ -1,8 +1,12 @@
-# Listenable explanation for heatmap in ASC task
+# Listenable Explanation for Heatmap in Acoustic Scene Classification
 
-<div align="center">
-  <img src="/img/interpretable sounds.png" width="100%">
-</div>
+<img src="./img/interpretable sounds.png" width="100%">
+
+Examples for the listenable heatmap method  
+- Dataset: DCASE2019 challenge Task1 - Subtask A - Development set
+- Model: [DCASE2019 challenge Task1 Awarded model](https://github.com/McDonnell-Lab/DCASE2019-Task1).  
+
+> _Recommend wearing headphones_
 
 1. [Airport](Airport.html)
 2. [Bus](Bus.html)
